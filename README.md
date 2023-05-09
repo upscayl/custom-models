@@ -18,4 +18,4 @@ WIP
 
 ## Model Credits:
 
-WIP
+@xinntao [LICENSE](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan/blob/master/LICENSE)

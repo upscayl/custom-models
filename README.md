@@ -12,6 +12,10 @@ This repository will contain extra models that users can download and use in Ups
 5. Select the `models` folder in the earlier extracted folder.
 6. Go back to Upscayl screen and select your custom models.
 
+# Models
+
+This repository has animevideo models for scales x2, x3 and x4. You can use Upscayl's scale option according to the model selected.
+
 ### Converting Models
 
 WIP

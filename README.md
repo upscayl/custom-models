@@ -8,17 +8,19 @@ This repository will contain extra models that users can download and use in Ups
 1. [Download this repository](https://github.com/upscayl/custom-models/archive/refs/heads/main.zip)
 2. Extract the downloaded ZIP file.
 3. Open Upscayl and click the Settings tab.
-4. Click on `Slect Folder` button under _CUSTOM MODELS_ section.
+4. Click on `Select Folder` button under _CUSTOM MODELS_ section.
 5. Select the `models` folder in the earlier extracted folder.
 6. Go back to Upscayl screen and select your custom models.
 
-# Models
-
-This repository has animevideo models for scales x2, x3 and x4. You can use Upscayl's scale option according to the model selected.
-
 ### Converting Models
 
-WIP
+WIP: Try finding ways to convert your models to NCNN, the format Upscayl uses, for now.
+
+# Models
+
+* RealESRGANv3: Lightweight and faster version of the default model, with slightly worse Upscayling performance.
+* AnimeVideo (Digital Art) models for scales x2, x3 and x4: After selecting these models you can use Upscayl's scale option without a hitch.
+* "Ultrasharp": We still don't know what this model is, but we accidently included it in place of Ultrasharp in v2.0.1 and @royal-rigolo liked it, so here it is!
 
 ## Model Credits:
 

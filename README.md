@@ -20,7 +20,7 @@ This repository will contain extra models that users can download and use in Ups
 
 This repository has animevideo models for scales x2, x3 and x4. You can use Upscayl's scale option according to the model selected.
 
-* RealESRGANv3: Lightweight and faster version of the default model, with slightly worse Upscayling performance.
+* RealESRGANv3: Lightweight and faster version of the default model, with (very slightly) worse quality.
 * AnimeVideo (Digital Art) models for scales x2, x3 and x4: After selecting these models you can use Upscayl's scale option without a hitch.
 * "Ultrasharp": We still don't know what this model is, but we accidently included it in place of Ultrasharp in v2.0.1 and @royal-rigolo liked it, so here it is!
 * Uniscale_Restore by Kim2091.

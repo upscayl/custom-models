@@ -12,11 +12,13 @@ This repository will contain extra models that users can download and use in Ups
 5. Select the `models` folder in the earlier extracted folder.
 6. Go back to Upscayl screen and select your custom models.
 
-### Converting Models
+# Convert your own Models!
 
-WIP: Try finding ways to convert your models to NCNN, the format Upscayl uses, for now.
+[The Upscayl wiki has a guide on how to convert pre-existing ESRGAN models!](https://github.com/upscayl/upscayl/wiki/%F0%9F%96%A5%EF%B8%8F-Model-Conversion---Create-more-AI-models!)
 
 # Models
+
+This repository has animevideo models for scales x2, x3 and x4. You can use Upscayl's scale option according to the model selected.
 
 * RealESRGANv3: Lightweight and faster version of the default model, with slightly worse Upscayling performance.
 * AnimeVideo (Digital Art) models for scales x2, x3 and x4: After selecting these models you can use Upscayl's scale option without a hitch.

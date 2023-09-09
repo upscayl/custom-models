@@ -18,14 +18,23 @@ This repository will contain extra models that users can download and use in Ups
 
 # Models
 
-This repository has animevideo models for scales x2, x3 and x4. You can use Upscayl's scale option according to the model selected.
+## General
+* `4x_NMKD-Siax_200k` - NMKD Siax - Universal upscaler for clean and slightly compressed images (JPEG quality 75 or better), based on CX loss + PatchGAN.
+* `4x_NMKD-Superscale-SP_178000_G` - NMKD Superscale - Perfect upscaling of clean (artifact-free) real-world images.
+* RealESRGANv3 models: Lightweight and faster versions of the default model, with (very slightly) worse quality.
+  * `RealESRGAN_General_WDN_x4_v3` - wide and deep network model
+  * `RealESRGAN_General_x4_v3`
+* `ultrasharp-2.0.1`: "Ultrasharp" - We still don't know what this model is, but we accidently included it in place of Ultrasharp in v2.0.1 and @royal-rigolo liked it, so here it is!
+* `uniscale_restore` by Kim2091.
 
-* RealESRGANv3: Lightweight and faster version of the default model, with (very slightly) worse quality.
-* AnimeVideo (Digital Art) models for scales x2, x3 and x4: After selecting these models you can use Upscayl's scale option without a hitch.
-* "Ultrasharp": We still don't know what this model is, but we accidently included it in place of Ultrasharp in v2.0.1 and @royal-rigolo liked it, so here it is!
-* Uniscale_Restore by Kim2091.
+## Digital Art
+[animevideo](https://github.com/xinntao/Real-ESRGAN/blob/master/docs/anime_video_model.md) models for scales x2, x3 and x4. You can use Upscayl's scale option according to the model selected.
+* `realesr-animevideov3-x2`
+* `realesr-animevideov3-x3`
+* `realesr-animevideov3-x4`
 
 ## Model Credits:
 
 @xinntao [LICENSE](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan/blob/master/LICENSE)   
 [@Kim2091](https://upscale.wiki/wiki/User:Kim2091)
+[NMKD](https://nmkd.de/?esrgan)

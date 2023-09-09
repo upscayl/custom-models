@@ -36,5 +36,5 @@ This repository will contain extra models that users can download and use in Ups
 ## Model Credits:
 
 @xinntao [LICENSE](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan/blob/master/LICENSE)   
-[@Kim2091](https://upscale.wiki/wiki/User:Kim2091)
+[@Kim2091](https://upscale.wiki/wiki/User:Kim2091)  
 [NMKD](https://nmkd.de/?esrgan)

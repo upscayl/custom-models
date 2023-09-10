@@ -14,7 +14,7 @@ This repository will contain extra models that users can download and use in Ups
 
 # Convert your own Models!
 
-[The Upscayl wiki has a guide on how to convert pre-existing ESRGAN models!](https://github.com/upscayl/upscayl/wiki/%F0%9F%96%A5%EF%B8%8F-Model-Conversion---Create-more-AI-models!)
+[The Upscayl wiki has a guide on how to convert pre-existing ESRGAN models!](https://github.com/upscayl/upscayl/wiki/%F0%9F%96%A5%EF%B8%8F-Model-Conversion-%E2%80%90-Create-more-AI-models!)
 
 # Models
 

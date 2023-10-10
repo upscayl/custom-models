@@ -26,6 +26,11 @@ This repository will contain extra models that users can download and use in Ups
   * `RealESRGAN_General_x4_v3`
 * `ultrasharp-2.0.1` - "Ultrasharp" - We still don't know what this model is, but we accidently included it in place of Ultrasharp in v2.0.1 and @royal-rigolo liked it, so here it is!
 * `uniscale_restore` by Kim2091.
+* `4xLSDIR` by Phhofm.
+* `4xLSDIRplusC` by Phhofm.
+* `4xLSDIRCompactC3` as a SRVGGNET (Compact) model, meaning inference times should be faster, by Phhofm.
+* `4xNomos8kSC` by Phhofm.
+* `4xHFA2k` by Phhofm.
 
 ### Digital Art
 [animevideo](https://github.com/xinntao/Real-ESRGAN/blob/master/docs/anime_video_model.md) models for scales x2, x3 and x4. You can use Upscayl's scale option according to the model selected.
@@ -38,3 +43,4 @@ This repository will contain extra models that users can download and use in Ups
 @xinntao [LICENSE](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan/blob/master/LICENSE)   
 [@Kim2091](https://upscale.wiki/wiki/User:Kim2091)  
 [NMKD](https://nmkd.de/?esrgan)
+[@Phhofm](https://github.com/Phhofm)

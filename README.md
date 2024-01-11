@@ -24,7 +24,7 @@ This repository will contain extra models that users can download and use in Ups
 * RealESRGANv3 - Lightweight and faster versions of the default model, with (very slightly) worse quality.
   * `RealESRGAN_General_WDN_x4_v3` - wide and deep network model
   * `RealESRGAN_General_x4_v3`
-* `ultrasharp-2.0.1` - "Ultrasharp" - We still don't know what this model is, but we accidently included it in place of Ultrasharp in v2.0.1 and @royal-rigolo liked it, so here it is!
+* `unknown-2.0.1` - "Unknown" - We still don't know what this model is, but we accidently included it in place of Ultrasharp in v2.0.1 and @royal-rigolo liked it, so here it is!
 * `uniscale_restore` by Kim2091.
 * `4xLSDIR` by Phhofm.
 * `4xLSDIRplusC` by Phhofm.

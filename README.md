@@ -33,10 +33,13 @@ This repository will contain extra models that users can download and use in Ups
 * `4xHFA2k` by Phhofm.
 
 ### Digital Art
-[animevideo](https://github.com/xinntao/Real-ESRGAN/blob/master/docs/anime_video_model.md) models for scales x2, x3 and x4. You can use Upscayl's scale option according to the model selected.
+[animevideo](https://github.com/xinntao/Real-ESRGAN/blob/master/docs/anime_video_model.md) models for scales x2, x3 and x4.
 * `realesr-animevideov3-x2`
 * `realesr-animevideov3-x3`
 * `realesr-animevideov3-x4`
+
+> [!NOTE]
+> Upscayl will use the model file name to detect the scale that it supports. If the model file name has 'x2' or '2x' in its name, Upscayl-NCNN will set the target resolution for upscaling accordingly. This doesn't affect the post-processing scaling option, this only affects the actual upscaling via ESRGAN. 
 
 ### Credits:
 
